@@ -117,4 +117,4 @@ pyplot.subplots_adjust(wspace = 0.3, hspace = 0.3)
 # 保存图像和处理后数据
 fig.savefig('missing_data_corelation.png')
 print ('filted_missing_data1 saved at missing_data_corelation.png')
-#4 内存崩了。。。
+
